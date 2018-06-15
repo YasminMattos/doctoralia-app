@@ -48,7 +48,7 @@ La descripción dada anteriormente no llega a cumplirse cabalmente con las expec
 
 Se realizó el paper prototyping en base a la opinión de un usuario al cual se le pidió que previamente use el aplicativo, éste hizo observaciones en el diseño y en el flujo de la versión original.
 
-[Fotos de la prueba de usabilidad y del testing]()
+[Fotos de la prueba de usabilidad y del testing](https://photos.app.goo.gl/rhCpX9KiwQDLzRh7A)
 
 A partir de estos insights se ejecutó el diseño de alta fidelidad en Figma.
 
@@ -60,5 +60,5 @@ A partir de estos insights se ejecutó el diseño de alta fidelidad en Figma.
 
 - Prototipo en Marvel:
 
-    [Versión rediseñada](https://marvelapp.com/1id163e)
+    [Versión rediseñada](https://marvelapp.com/project/1977259/)
 
